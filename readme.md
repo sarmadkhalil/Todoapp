@@ -2,8 +2,8 @@ Installing this app:
 
 1) Pull in the project from github to your htdocs:
 
-    a) Go to C:\xampp\htdocs
-    b) Right-click and press Git bash here
+    a) Go to C:\xampp\htdocs<br>
+    b) Right-click and press Git bash here<br>
     c) Write-in this command:
         git clone https://github.com/sarmadkhalil/Todoapp.git
 
