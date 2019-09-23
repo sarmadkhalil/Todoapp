@@ -5,7 +5,7 @@ Installing this app:
     a) Go to C:\xampp\htdocs
     b) Right-click and press Git bash here
     c) Write-in this command:
-        git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+        git clone https://github.com/sarmadkhalil/Todoapp.git
 
 2) Go to .env file and add the name of the database you want to connect with
 
