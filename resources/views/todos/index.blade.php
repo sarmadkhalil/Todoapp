@@ -21,7 +21,7 @@
                   {{ $todo->name }}
                   <a href="/todos/{{ $todo->id }}" class="btn btn-primary btn-sm float-right">View</a>
                   <a href="todos/{{$todo->id}}/edit" class="btn btn-warning btn-sm float-right mx-1">Edit</a>
-                  <a href="/todos/{{ $todo->id }}/delete" class="btn btn-success btn-sm float-right">Complete</a>
+                  <a href="/todos/{{ $todo->id }}/delete" class="btn btn-success btn-sm float-right">Completed</a>
                 </li>
               @endforeach
             </ul>
