@@ -61,10 +61,9 @@ class TodosController extends Controller
 
       return redirect('/todos');
     }
-    
+
     public function destroy(Todo $todo){
       $todo->delete();
-
       return redirect('/todos')->with('success', 'Supplier deleted!');
     }
 
